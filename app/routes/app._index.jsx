@@ -220,7 +220,7 @@ export default function Index() {
               href="https://shopify.dev/docs/apps/getting-started/build-app-example"
               target="_blank"
             >
-              example app test12345
+              example app
             </s-link>
           </s-list-item>
           <s-list-item>
